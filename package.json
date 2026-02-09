@@ -1,0 +1,22 @@
+{
+    "name": "immutable-theme",
+    "displayName": "Immutable Theme",
+    "description": "A theme designed to settle in and stay.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.109.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Immutable",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Immutable-color-theme.json"
+            }
+        ]
+    }
+}
