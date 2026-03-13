@@ -2,6 +2,7 @@
     "name": "immutable-theme",
     "displayName": "Immutable Theme",
     "description": "A theme designed to settle in and stay.",
+    "publisher": "tirth25",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.109.0"
@@ -13,10 +14,19 @@
     "contributes": {
         "themes": [
             {
-                "label": "Immutable",
+                "label": "Immutable (Blue)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Immutable-color-theme.json"
+            },
+            {
+                "label": "Immutable (Black)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Immutable-Black.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tirth-2510/immutable-theme"
     }
 }
