@@ -19,9 +19,14 @@
                 "path": "./themes/Immutable-color-theme.json"
             },
             {
-                "label": "Immutable (Black)",
+                "label": "Immutable (Black - Yellow)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Immutable-Black.json"
+            },
+            {
+                "label": "Immutable (Black - Green)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Immutable-Black-Green.json"
             }
         ]
     },
