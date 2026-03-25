@@ -3,7 +3,7 @@
     "displayName": "Immutable Theme",
     "description": "A theme designed to settle in and stay.",
     "publisher": "tirth25",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.109.0"
     },
