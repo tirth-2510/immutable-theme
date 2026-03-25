@@ -27,6 +27,11 @@
                 "label": "Immutable (Black - Green)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Immutable-Black-Green.json"
+            },
+            {
+                "label": "Immutable (Black - Blue)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Immutable-Black-Blue.json"
             }
         ]
     },
