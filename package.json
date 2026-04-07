@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Immutable (Blue)",
+                "label": "Immutable",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Immutable-color-theme.json"
             },
