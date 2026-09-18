@@ -19,6 +19,11 @@
                 "path": "./themes/Immutable-color-theme.json"
             },
             {
+                "label": "Immutable (GPT theme)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GPT-theme.json"
+            },
+            {
                 "label": "Immutable (Black - Yellow)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Immutable-Black.json"
@@ -27,11 +32,6 @@
                 "label": "Immutable (Black - Green)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Immutable-Black-Green.json"
-            },
-            {
-                "label": "Immutable (Black - Blue)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Immutable-Black-Blue.json"
             }
         ]
     },
