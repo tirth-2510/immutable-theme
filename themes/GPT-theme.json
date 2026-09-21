@@ -270,7 +270,7 @@
         "meta.function.parameters variable"
       ],
       "settings": {
-        "foreground": "#F0F0EC"
+        "foreground": "#BBBBBB"
       }
     },
     {
@@ -281,7 +281,7 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#9AA5B1"
+        "foreground": "#BBBBBB"
       }
     },
     {
@@ -367,7 +367,13 @@
         "meta.function-call entity.name.function",
         "variable.function",
         "entity.name.function.member",
-        "meta.method.declaration entity.name.function"
+        "meta.method.declaration entity.name.function",
+        "meta.definition.method entity.name.function",
+        "meta.function.method entity.name.function",
+        "meta.method entity.name.function",
+        "entity.name.function.member.js",
+        "entity.name.function.member.ts",
+        "meta.class entity.name.function"
       ],
       "settings": {
         "foreground": "#FFD24D"
