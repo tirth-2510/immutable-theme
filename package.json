@@ -1,42 +1,32 @@
 {
-    "name": "immutable-theme",
-    "displayName": "Immutable Theme",
-    "description": "A theme designed to settle in and stay.",
-    "publisher": "tirth25",
-    "version": "0.2.2",
-    "engines": {
-        "vscode": "^1.109.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "icon": "icon.png",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Immutable",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Immutable-color-theme.json"
-            },
-            {
-                "label": "Immutable (GPT theme)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/GPT-theme.json"
-            },
-            {
-                "label": "Immutable (Black - Yellow)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Immutable-Black.json"
-            },
-            {
-                "label": "Immutable (Black - Green)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Immutable-Black-Green.json"
-            }
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/tirth-2510/immutable-theme"
-    }
+  "name": "immutable-theme",
+  "displayName": "Immutable Theme",
+  "description": "A theme designed to settle in and stay.",
+  "publisher": "tirth25",
+  "version": "0.2.2",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Immutable Theme (Lighter)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/light-theme.json"
+      },
+      {
+        "label": "Immutable Theme (Darker)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tirth-2510/immutable-theme"
+  }
 }
