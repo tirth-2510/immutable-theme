@@ -6,6 +6,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.2.2]
+
+- Fixed the GPT theme's editor tab bar so the active tab is visually distinct from inactive tabs, and hovering over a tab now shows a clear highlight.
 - Added the **GPT theme** variant, inspired by the color palette used in the ChatGPT mobile app.
 - Fixed a few inconsistent color codings in the GPT theme.
 
