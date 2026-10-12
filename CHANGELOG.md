@@ -5,6 +5,13 @@ All notable changes to the "immutable-theme" extension will be documented in thi
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 
+## [1.0.1]
+
+- Added screenshots to the README — Python (FastAPI service) and JavaScript (async task queue).
+- Rewrote README with a full preview gallery, variant comparison table, themed-surface reference, and marketplace badges.
+- Added `preview/` folder with production-style demo files (`api_service.py`, `task_queue.js`) used for screenshots.
+- Added MIT `LICENSE` file and wired `"license": "MIT"` into `package.json`.
+
 ## [1.0.0]
 
 - **Complete theme overhaul.** Rebuilt both variants from the ground up with a consistent 5-tier elevation system (`#161616` → `#1E1E1E` → `#252525` → `#2E2E2E` → `#383838` for the lighter variant; one step darker for the darker variant).
